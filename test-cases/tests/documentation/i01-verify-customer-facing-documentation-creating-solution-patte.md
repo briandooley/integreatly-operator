@@ -2,6 +2,8 @@
 estimate: 2h
 ---
 
+// This is a test
+
 # I01 - Verify customer - facing documentation Creating - Solution - Patterns
 
 ## Creating Solution Patterns
